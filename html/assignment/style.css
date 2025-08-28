@@ -1,0 +1,39 @@
+header{
+    background-color: antiquewhite;
+}
+.header{
+
+    background-color: blanchedalmond;
+}
+*{
+
+    padding: 50;
+    margin: 10;
+    box-sizing: border-box;
+}
+h1{
+    text-align: centre;
+    background-color:black;
+}
+p {
+text-align: center;
+color: red;
+text-decoration : underline purple;
+padding: 0px;
+}
+.my_class{
+    text-decoration:lightpink;
+    font-size: 20px;
+}
+table {
+text-decoration: dotted;
+text-decoration: wavy;
+background-color: navajowhite ;
+}
+h3{
+    text-align: center;
+}
+li{
+
+    text-align: center;
+}
