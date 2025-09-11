@@ -9,18 +9,21 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **React, TypeScript, and Tailwind CSS**
-- 💬 Ask me about **HTML, CSS, JavaScript, and responsive design**
-- 👩‍💻 All of my projects are available at [nishikav22.github.io](https://nishikav22.github.io) <!-- Add your portfolio link if you have one -->
+- 🌱 I’m currently learning **html, CSS,java**
+- 💬 Ask me about **c,python**
 - 📫 How to reach me: **nishika7249@gmail.com**
-- ⚡ Fun fact: I love designing pixel-perfect UIs!
+
 
 ---
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
+---
 ### 🛠️ Languages and Tools
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
