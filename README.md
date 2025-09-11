@@ -15,7 +15,7 @@
 
 
 ---
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates" />
 
 ---
 ### 🛠️ Languages and Tools
